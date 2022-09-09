@@ -5,7 +5,7 @@ Data analyzes credit card customer churn
 I used Google Sheet to sort and filter data
 
 ## Tableau project link
-<a href="https://public.tableau.com/app/profile/arzu.rahimli/viz/CreditCardChurnrate/CreditCardChurnAnalysis">My Tableau Project</a>
+<a href="https://public.tableau.com/app/profile/arzu.rahimli/viz/CreditCardChurnrate/CreditCardChurnAnalysis">CREDIT CARD CHURN ANALYSIS DASHBOARD</a>
 
 ## Dashboard
 Customer Credit Card Churn Dasboard was added
