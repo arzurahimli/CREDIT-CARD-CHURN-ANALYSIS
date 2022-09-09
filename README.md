@@ -6,6 +6,7 @@ I used Google Sheet to sort and filter data
 
 ## Tableau project link
 By clicking following link you can analyze dashbard on my Tableau profile
+
 <a href="https://public.tableau.com/app/profile/arzu.rahimli/viz/CreditCardChurnrate/CreditCardChurnAnalysis">CREDIT CARD CHURN ANALYSIS DASHBOARD</a>
 
 ## Dashboard
