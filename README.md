@@ -38,7 +38,7 @@ Based on the result of analysis:
 >
 ><img src ="https://github.com/arzurahimli/CREDIT-CARD-CHURN-ANALYSIS/blob/main/Review/Images/Monetary%20based%20KPIs.PNG" >
 
-## Relationship Based KPIs
+## ***Relationship Based KPIs***
 In this part I analyzed churn rate based on the number of prduct which customer owns from the same bank and number of inactive time within the last 12 months.
 Resuls are as follows:
 
