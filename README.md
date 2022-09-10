@@ -22,6 +22,7 @@ KPIs in this categories are Gender, Education level and Age group. Analysis of c
 > About 21 percent of customers with doctorate degree tend to churn more.
 >
 > Interesting point in the analyzing of churn by age group is that customer under 25 years old did not churn. On the other hand customers above 45 years old churn with the highest percentage in relation to other customers. 
+> <img src ="https://github.com/arzurahimli/CREDIT-CARD-CHURN-ANALYSIS/blob/main/Review/Images/Demographic%20based%20KPIs.PNG" width="1000" height="auto" >
 
 ## Monetary Based KPIs
 Income level, Credit Limit and Utilization ratio are the main focus in this category
